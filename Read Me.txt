@@ -1,0 +1,17 @@
+packages and versions to install:
+
+!pip install pandas==2.2.1
+!pip install scipy==1.13.0
+!pip install matplotlib==3.8.4
+!pip install seaborn==0.13.2
+!pip install scikit-learn==1.4.0
+!pip install torch==2.2.2
+!pip install skorch==0.15.0
+!pip install joblib==1.4.0
+
+Instructions:
+
+1. Download the zipped file
+2. Extract the zipped file
+3. Create a new virtual environment in anaconda
+4. pip install the above packages bt copy pasting - or simply in the testing code un comment the first section and run the code
